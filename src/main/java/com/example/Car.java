@@ -22,4 +22,19 @@ public class Car {
 		this.speed = speed;
 	}
 
+	private int gas;
+	private String bodyColor;
+	
+	public int getGas() {
+		return gas;
+	}
+	public void setGas(int gas) {
+		this.gas = gas;
+	}
+	public String getBodyColor() {
+		return bodyColor;
+	}
+	public void setBodyColor(String bodyColor) {
+		this.bodyColor = bodyColor;
+	}
 }
