@@ -1,6 +1,5 @@
 package com.example;
 
-public class Car {
-	
+public class Car {	
 
 }
